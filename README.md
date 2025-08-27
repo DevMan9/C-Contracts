@@ -1,4 +1,4 @@
-# C Contracts
+# C Contracts (contracts.x)
 
 A contract file in C is a specialized header file that simply defines that certain function/variables exist, but is not necessarily accompanied by an implementation.
 For example:
